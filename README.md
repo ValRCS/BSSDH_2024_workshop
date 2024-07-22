@@ -30,7 +30,7 @@ If you can run the above Notebook in an environment of your choice (Google Colab
 
 Here is a Python syntax refresher, optional if you have good working knowledge of Python.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2024_workshop/blob/main/notebooks/python_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2024_workshop/blob/main/notebooks/python_refresher.ipynb)
 
 
 
